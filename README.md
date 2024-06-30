@@ -1,4 +1,6 @@
-# YouTube Ambient Mode | _TEST_
+# YouTube Ambient Mode | *TEST*
+
+![Imgur](https://i.imgur.com/CXkNvHF.png)
 
 This project demonstrates how to recreate YouTube's Ambient Mode by synchronizing two YouTube players using React and the `react-youtube` library. The main player controls playback while a muted, lower-quality player follows closely in sync. The interface includes a time difference display, synchronization status, and inputs for video URL and synchronization settings.
 
@@ -15,13 +17,13 @@ This project demonstrates how to recreate YouTube's Ambient Mode by synchronizin
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Orloxx23/ambient-mode-test.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <project-directory>
+   cd ambient-mode-test
    ```
 
 3. Install dependencies:
