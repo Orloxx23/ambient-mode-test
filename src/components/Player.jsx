@@ -59,7 +59,7 @@ const Player = () => {
     height: size.height,
     playerVars: {
       autoplay: 1,
-      controls: 0,
+      controls: 1,
       disablekb: 1,
       modestbranding: 1,
       mute: 0,
